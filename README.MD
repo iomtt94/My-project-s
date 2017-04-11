@@ -1,6 +1,7 @@
 ***
  **My project's**
 ***
+![alt tag](http://vinaikopp.com/img/My_projects.png)
 1. http://u2715.indigo.elastictech.org/home2/app/ (Cayzu)
 2. http://u2715.indigo.elastictech.org/dklogo/
 3. http://u2715.indigo.elastictech.org/login/
