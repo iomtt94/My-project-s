@@ -1,5 +1,5 @@
 # **My project's**
-1. http://u2715.indigo.elastictech.org/home2/app/
+1. http://u2715.indigo.elastictech.org/home2/app/ (Cayzu)
 2. http://u2715.indigo.elastictech.org/dklogo/
 3. http://u2715.indigo.elastictech.org/login/
 4. http://u2715.indigo.elastictech.org/boxes/
@@ -8,4 +8,7 @@
 ## Links to my code: 
 
 - https://github.com/iomtt94/boxes
+- https://github.com/iomtt94/dklogo
+- https://github.com/iomtt94/home
+- https://github.com/iomtt94/home2-Cayzu-
 - 
