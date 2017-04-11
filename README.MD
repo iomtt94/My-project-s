@@ -15,6 +15,5 @@
 - https://github.com/iomtt94/home-next-page
 - https://github.com/iomtt94/login
 
-> We loved with a love that was more than love
+> By Artemenko Bohdan
 
-By Artemenko Bohdan
