@@ -8,7 +8,7 @@
 5. http://u2715.indigo.elastictech.org/home/app/
 6. http://u2715.indigo.elastictech.org/home-next-page/app/
 ***
- Links to my code: 
+ **Links to my code:** 
 ***
 - https://github.com/iomtt94/boxes
 - https://github.com/iomtt94/dklogo
